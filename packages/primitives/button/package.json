@@ -2,7 +2,7 @@
   "name": "@rootui/button",
   "description": "Buttons allow users to perform actions with mouse, touch, and keyboard interactions.",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "homepage": "https://root-ui.com/docs/primitives/button",
   "license": "MIT",
   "sideEffects": false,
