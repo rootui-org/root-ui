@@ -1,0 +1,83 @@
+# @rootui/badge
+
+[![Github repository](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/rootui-org/root-ui) [![Npm monthly downloads](https://img.shields.io/npm/dm/@rootui/badge)](https://www.npmjs.com/package/@rootui/badge) [![Npm monthly downloads](https://img.shields.io/badge/live-demo-green)](https://root-ui.com/primitives/badge) [![Root UI X profile](https://img.shields.io/twitter/follow/rootui_)](https://x.com/rootui_)
+
+Small informational badges for displaying labels, statuses, and categories.
+
+ - 📖 Docs: [Root UI badge docs](https://root-ui.com/primitives/badge)
+ - 📄 Source: [Github repository](https://github.com/rootui-org/root-ui)
+ - 🐛 Report an issue: [Open an issue](#)
+ - 📦 Package: [@rootui/badge](https://www.npmjs.com/package/@rootui/badge)
+
+## 🧬 Anatomy
+```tsx
+<Badge></Badge>
+```
+## 🛠️ Installation
+### 1. 📌 Prerequisite
+#### 1.1. ⚙️ Install dependecies
+Check the [getting started guide](https://root-ui.com/docs/getting-started) for more info.
+If you haven't installed the dependecies yet, then run this command:
+```bash
+npm install react-aria-components tw-animate-css
+# or
+yarn add react-aria-components tw-animate-css
+# or
+pnpm add react-aria-components tw-animate-css
+# or
+bun add react-aria-components tw-animate-css
+```
+#### 1.2. 🎨 Choose a theme
+You need to pick a theme from the [official Root UI website](https://root-ui.com/playground).
+
+
+### 2. 🍉 Install component
+#### Option 1: 📦 Package
+```bash
+npm install @rootui/badge
+# or
+yarn add @rootui/badge
+# or
+pnpm add @rootui/badge
+# or
+bun add @rootui/badge
+```
+
+#### Option 2: ⬛ Shadcn CLI
+```bash
+npx shadcn@latest add @rootui/badge
+# or
+yarn shadcn@latest add @rootui/badge
+# or
+pnpm dlx shadcn@latest add @rootui/badge
+# or
+bunx --bun shadcn@latest add @rootui/badge
+```
+
+#### Option 3: 🏗️ Manual
+Check the [Root UI badge docs](https://root-ui.com/docs/primitives/badge#installation).
+
+## 💻 Usage
+```tsx
+import { Badge } from "@rootui/badge";
+export default function Page() {
+  return (
+    <Badge>status</Badge>
+  )
+}
+```
+## 📃 API Reference
+Check the [Root UI badge docs](https://root-ui.com/docs/primitives/badge#api-reference).
+
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or encounter any issues, please open an issue or submit a pull request on the  [GitHub repository](#).
+
+Steps to Contribute:
+
+1.  Fork the repository. 🍴
+2.  Create a new branch for your feature or bugfix. 🌿
+3.  Commit your changes. 💾
+4.  Push your branch and submit a pull request. 🚀
+
+## 📜 License
+This project is licensed under the MIT License. See the  [LICENSE](https://github.com/rootui-org/root-ui/blob/main/LICENSE.md)  file for details.
