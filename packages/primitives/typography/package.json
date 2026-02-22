@@ -2,7 +2,7 @@
   "name": "@rootui/typography",
   "description": "Use typography to present your design and content as clearly and efficiently as possible.",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://root-ui.com/docs/primitives/typography",
   "license": "MIT",
   "sideEffects": false,
