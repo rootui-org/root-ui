@@ -2,7 +2,7 @@
   "name": "@rootui/typography",
   "description": "Use typography to present your design and content as clearly and efficiently as possible.",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://root-ui.com/docs/primitives/typography",
   "license": "MIT",
   "sideEffects": false,
@@ -30,7 +30,9 @@
   },
   "scripts": {
     "build": "tsup src",
-    "dev": "tsup src --watch src"
+    "dev": "tsup src --watch src",
+    "link": "bun link",
+    "publish": "bun publish"
   },
   "dependencies": {
     "tailwind-variants": "^3.2.2"

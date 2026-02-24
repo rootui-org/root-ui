@@ -42,18 +42,7 @@ pnpm add @rootui/typography
 bun add @rootui/typography
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/typography
-# or
-yarn shadcn@latest add @rootui/typography
-# or
-pnpm dlx shadcn@latest add @rootui/typography
-# or
-bunx --bun shadcn@latest add @rootui/typography
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI typography docs](https://root-ui.com/docs/primitives/typography#installation).
 
 ## 💻 Usage
