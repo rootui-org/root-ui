@@ -11,7 +11,8 @@
   ],
   "scripts": {
     "build": "turbo run build --filter='./packages/**'",
-    "dev": "turbo watch dev --concurrency 15 --filter='./packages/**'"
+    "dev": "turbo watch dev --concurrency 15 --filter='./packages/**'",
+    "link": "turbo run link --filter='./packages/**'"
   },
   "devDependencies": {
     "@types/bun": "latest",

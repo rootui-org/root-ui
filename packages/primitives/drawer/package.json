@@ -2,7 +2,7 @@
   "name": "@rootui/drawer",
   "description": "A panel that slides in from the edge of the screen (also called Sheet component).",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://root-ui.com/docs/primitives/drawer",
   "license": "MIT",
   "sideEffects": false,
@@ -30,7 +30,9 @@
   },
   "scripts": {
     "build": "tsup src",
-    "dev": "tsup src --watch src"
+    "dev": "tsup src --watch src",
+    "link": "bun link",
+    "publish": "bun publish"
   },
   "dependencies": {
     "clsx": "^2.1.1",

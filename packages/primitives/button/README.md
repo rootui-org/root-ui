@@ -43,18 +43,7 @@ pnpm add @rootui/button
 bun add @rootui/button
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/button
-# or
-yarn shadcn@latest add @rootui/button
-# or
-pnpm dlx shadcn@latest add @rootui/button
-# or
-bunx --bun shadcn@latest add @rootui/button
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI button docs](https://root-ui.com/docs/primitives/button#installation).
 
 ## 💻 Usage

@@ -2,7 +2,7 @@
   "name": "@rootui/button",
   "description": "Buttons allow users to perform actions with mouse, touch, and keyboard interactions.",
   "type": "module",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage": "https://root-ui.com/docs/primitives/button",
   "license": "MIT",
   "sideEffects": false,
@@ -30,7 +30,9 @@
   },
   "scripts": {
     "build": "tsup src",
-    "dev": "tsup src --watch src"
+    "dev": "tsup src --watch src",
+    "link": "bun link",
+    "publish": "bun publish"
   },
   "dependencies": {
     "tailwind-variants": "^3.2.2"

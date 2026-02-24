@@ -51,18 +51,7 @@ pnpm add @rootui/tabs
 bun add @rootui/tabs
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/tabs
-# or
-yarn shadcn@latest add @rootui/tabs
-# or
-pnpm dlx shadcn@latest add @rootui/tabs
-# or
-bunx --bun shadcn@latest add @rootui/tabs
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI tabs docs](https://root-ui.com/docs/primitives/tabs#installation).
 
 ## 💻 Usage

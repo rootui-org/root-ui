@@ -51,18 +51,7 @@ pnpm add @rootui/drawer
 bun add @rootui/drawer
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/drawer
-# or
-yarn shadcn@latest add @rootui/drawer
-# or
-pnpm dlx shadcn@latest add @rootui/drawer
-# or
-bunx --bun shadcn@latest add @rootui/drawer
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI drawer docs](https://root-ui.com/docs/primitives/drawer#installation).
 
 ## 💻 Usage

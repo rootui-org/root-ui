@@ -2,7 +2,7 @@
   "name": "@rootui/select",
   "description": "A select displays a collapsible list of options and allows a user to select one of them or multiple of them.",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://root-ui.com/docs/primitives/select",
   "license": "MIT",
   "sideEffects": false,
@@ -30,7 +30,9 @@
   },
   "scripts": {
     "build": "tsup src",
-    "dev": "tsup src --watch src"
+    "dev": "tsup src --watch src",
+    "link": "bun link",
+    "publish": "bun publish"
   },
   "dependencies": {
     "clsx": "^2.1.1",

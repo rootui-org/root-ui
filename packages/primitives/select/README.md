@@ -46,18 +46,7 @@ pnpm add @rootui/select
 bun add @rootui/select
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/select
-# or
-yarn shadcn@latest add @rootui/select
-# or
-pnpm dlx shadcn@latest add @rootui/select
-# or
-bunx --bun shadcn@latest add @rootui/select
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI select docs](https://root-ui.com/docs/primitives/select#installation).
 
 ## 💻 Usage

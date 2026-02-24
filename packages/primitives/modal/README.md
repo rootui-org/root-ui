@@ -51,18 +51,7 @@ pnpm add @rootui/modal
 bun add @rootui/modal
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/modal
-# or
-yarn shadcn@latest add @rootui/modal
-# or
-pnpm dlx shadcn@latest add @rootui/modal
-# or
-bunx --bun shadcn@latest add @rootui/modal
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI modal docs](https://root-ui.com/docs/primitives/modal#installation).
 
 ## 💻 Usage

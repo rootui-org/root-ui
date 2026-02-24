@@ -44,18 +44,7 @@ pnpm add @rootui/input
 bun add @rootui/input
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/input
-# or
-yarn shadcn@latest add @rootui/input
-# or
-pnpm dlx shadcn@latest add @rootui/input
-# or
-bunx --bun shadcn@latest add @rootui/input
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI input docs](https://root-ui.com/docs/primitives/input#installation).
 
 ## 💻 Usage

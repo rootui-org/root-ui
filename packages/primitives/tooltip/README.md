@@ -47,18 +47,7 @@ pnpm add @rootui/tooltip
 bun add @rootui/tooltip
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/tooltip
-# or
-yarn shadcn@latest add @rootui/tooltip
-# or
-pnpm dlx shadcn@latest add @rootui/tooltip
-# or
-bunx --bun shadcn@latest add @rootui/tooltip
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI tooltip docs](https://root-ui.com/docs/primitives/tooltip#installation).
 
 ## 💻 Usage

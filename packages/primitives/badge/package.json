@@ -2,7 +2,7 @@
   "name": "@rootui/badge",
   "description": "The badge component lets users show and hide sections of related content on a page. It supports both single and multiple expanded items (also called Disclosure).",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://root-ui.com/docs/primitives/badge",
   "license": "MIT",
   "sideEffects": false,
@@ -30,7 +30,9 @@
   },
   "scripts": {
     "build": "tsup src",
-    "dev": "tsup src --watch src"
+    "dev": "tsup src --watch src",
+    "link": "bun link",
+    "publish": "bun publish"
   },
   "dependencies": {
     "tailwind-variants": "^3.2.2"

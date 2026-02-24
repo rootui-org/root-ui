@@ -2,7 +2,7 @@
   "name": "@rootui/slider",
   "description": "A slider allows a user to select one or more values within a range.",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://root-ui.com/docs/primitives/slider",
   "license": "MIT",
   "sideEffects": false,
@@ -30,7 +30,9 @@
   },
   "scripts": {
     "build": "tsup src",
-    "dev": "tsup src --watch src"
+    "dev": "tsup src --watch src",
+    "link": "bun link",
+    "publish": "bun publish"
   },
   "dependencies": {
     "@number-flow/react": "^0.5.12",

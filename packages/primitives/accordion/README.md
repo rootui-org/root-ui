@@ -49,18 +49,7 @@ pnpm add @rootui/accordion
 bun add @rootui/accordion
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/accordion
-# or
-yarn shadcn@latest add @rootui/accordion
-# or
-pnpm dlx shadcn@latest add @rootui/accordion
-# or
-bunx --bun shadcn@latest add @rootui/accordion
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI accordion docs](https://root-ui.com/docs/primitives/accordion#installation).
 
 ## 💻 Usage

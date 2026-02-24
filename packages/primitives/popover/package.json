@@ -2,7 +2,7 @@
   "name": "@rootui/popover",
   "description": "A Popover can be used to display some content when user clicks on another element.",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://root-ui.com/docs/primitives/popover",
   "license": "MIT",
   "sideEffects": false,
@@ -30,7 +30,9 @@
   },
   "scripts": {
     "build": "tsup src",
-    "dev": "tsup src --watch src"
+    "dev": "tsup src --watch src",
+    "link": "bun link",
+    "publish": "bun publish"
   },
   "dependencies": {
     "tailwind-variants": "^3.2.2"

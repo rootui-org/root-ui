@@ -9,6 +9,9 @@
     "build": {
       "dependsOn": ["^build"],
       "outputs": ["dist/**"]
+    },
+    "link": {
+      "cache": false
     }
   }
 }

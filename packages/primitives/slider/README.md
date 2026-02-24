@@ -44,18 +44,7 @@ pnpm add @rootui/slider
 bun add @rootui/slider
 ```
 
-#### Option 2: ⬛ Shadcn CLI
-```bash
-npx shadcn@latest add @rootui/slider
-# or
-yarn shadcn@latest add @rootui/slider
-# or
-pnpm dlx shadcn@latest add @rootui/slider
-# or
-bunx --bun shadcn@latest add @rootui/slider
-```
-
-#### Option 3: 🏗️ Manual
+#### Option 2: 🏗️ Manual
 Check the [Root UI slider docs](https://root-ui.com/docs/primitives/slider#installation).
 
 ## 💻 Usage
