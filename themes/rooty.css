@@ -226,7 +226,7 @@
   --color-text-inverse: var(--color-neutral-100);
 
   --color-text-primary: var(--color-primary-600);
-  --color-text-on-primary: var(--color-primary-900);
+  --color-text-on-primary: var(--color-black);
   --color-text-on-primary-subtle: var(--color-primary-800);
 
   --color-text-secondary: var(--color-secondary-600);
@@ -358,7 +358,7 @@
   --color-text-inverse: var(--color-neutral-950);
 
   --color-text-primary: var(--color-primary-100);
-  --color-text-on-primary: var(--color-primary-950);
+  --color-text-on-primary: var(--color-black);
   --color-text-on-primary-subtle: var(--color-primary-100);
 
   --color-text-secondary: var(--color-secondary-200);
