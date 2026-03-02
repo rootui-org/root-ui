@@ -10,7 +10,7 @@
 :root {
   /* Neutral */
   --color-white: #FFFFFF;
-  --color-neutral-50: oklch(98.5% 0 0);
+  --color-neutral-50: oklch(96.5% 0 0);
   --color-neutral-100: oklch(95.5% 0 0);
   --color-neutral-150: oklch(94% 0 0);
   --color-neutral-200: oklch(92.2% 0 0);
